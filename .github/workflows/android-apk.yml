@@ -34,7 +34,7 @@ jobs:
           distribution: temurin
           java-version: "17"
 
-      - name: Find and extract project ZIP
+      - name: Find  extract project ZIP
         shell: bash
         run: |
           set -euo pipefail
@@ -250,6 +250,7 @@ jobs:
           path: output/AAKNOVA.apk
           if-no-files-found: error
           retention-days: 7
+
 
 
           
