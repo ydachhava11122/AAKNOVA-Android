@@ -1,0 +1,6 @@
+{
+  "name": "AAKNOVA",
+  "description": "Complete multi-tenant enterprise institution management platform with Founder governance, 14 operational modules, real-time analytics, audit security, and backup/restore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,4 @@
+-keepattributes *Annotation*
+-keep class com.getcapacitor.** { *; }
+-keep class com.aaknova.enterprise.** { *; }
+-dontwarn com.getcapacitor.**
